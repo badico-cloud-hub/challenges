@@ -19,6 +19,10 @@ Imagine that a user need to know your latitude and longitude but, the unique thi
 
 Your curiosity to bring solutions to the project, how you learn, ask for help if something is blocking you and do you code.
 
+# The Big Pictures
+
+You don't need to implement the solucion of end to end, but two things thas will be really to have is, a text or audio explain how you imagine a great solution for this challenge.
+
 > We don't expect anything from you, we just want to evaluate your experience and knowledge until here to know-how guide you to your next level. So use and abuse all your knowledge to build this project/solution.
 
 # How to send 

@@ -17,7 +17,7 @@ Imagine that a user need to know your latitude and longitude but, the unique thi
 
 # What we will evaluate?
 
-- Your curiosity to bring solutions to the project, how you learn, ask for help if something is blocking you and do you code.
+Your curiosity to bring solutions to the project, how you learn, ask for help if something is blocking you and do you code.
 
 > We don't expect anything from you, we just want to evaluate your experience and knowledge until here to know-how guide you to your next level. So use and abuse all your knowledge to build this project/solution.
 

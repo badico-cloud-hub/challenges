@@ -13,7 +13,7 @@ Imagine that a user need to know your latitude and longitude but, the unique thi
 2. The user can do it a lot of times so, guarantee a fast response time would be cool.
 3. Think, if the service that you use to get lat long goes down, how to keep delivering the recent queries that the user did.
 4. Would be cool if the user can save your favorite locations about addresses queried.
-5. Internally we would want a graphic to look quantity of requests per days
+5. Internally we would want a graphic to look quantity of requests per days and other metrics that you think to could important.
 
 # What we will evaluate?
 

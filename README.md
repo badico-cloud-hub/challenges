@@ -7,7 +7,7 @@ Feel free to solve it using technologies that you want
 
 Imagine that a user need to know your latitude and longitude but, the unique things that knows is the address name, number, city, state and country.
 
-Thinking in it
+### Thinking in it
 
 1. How you will solve it? Fell free to use any programming language or technology and external services.
 2. The user can do it a lot of times so, guarantee a fast response time would be cool.
